@@ -1,2 +1,1 @@
-Hai
-My name is asdfsdf
+var name = "sid"
