@@ -1,2 +1,2 @@
 Hai
-My name is hai
+name
